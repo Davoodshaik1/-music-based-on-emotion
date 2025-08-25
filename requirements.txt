@@ -1,12 +1,8 @@
 streamlit
-
 numpy
 deepface
 spotipy
-SpotifyClientCredentials
-
 opencv-python
-
 pandas
 matplotlib
 scikit-learn
