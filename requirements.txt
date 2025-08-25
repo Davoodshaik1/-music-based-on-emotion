@@ -2,8 +2,8 @@ streamlit
 numpy
 deepface
 spotipy
-opencv-python
+opencv-python-headless
 pandas
 matplotlib
 scikit-learn
-cv2
+
