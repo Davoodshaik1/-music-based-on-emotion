@@ -1,6 +1,12 @@
 streamlit
-cv2
+
 numpy
 deepface
 spotipy
 SpotifyClientCredentials
+
+opencv-python
+
+pandas
+matplotlib
+scikit-learn
