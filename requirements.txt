@@ -1,8 +1,19 @@
-streamlit
-numpy
-deepface
-spotipy
-opencv-python-headless
-pandas
-matplotlib
-scikit-learn
+# Core web app
+streamlit==1.38.0
+
+# Face detection / emotion recognition
+deepface==0.0.79
+opencv-python-headless==4.8.1.78
+numpy==1.23.5
+pandas==2.0.3
+
+# Fix TensorFlow/Keras compatibility
+tensorflow==2.12.0
+keras==2.12.0
+tf-keras
+
+# Spotify API
+spotipy==2.23.0
+
+# Utils
+Pillow==9.5.0
