@@ -2,7 +2,7 @@ streamlit
 numpy
 deepface
 spotipy
-opencv-python-headless==4.8.1.78
+opencv-python-headless
 pandas
 matplotlib
 scikit-learn
